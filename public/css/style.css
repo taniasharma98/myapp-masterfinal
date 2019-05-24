@@ -99,8 +99,8 @@
           .secondpage{
               margin:0;
               font-family:"-apple-system", "BlinkMacSystemFont", sans-serif;
-              font-size:1rem
-              line-height;1.5;
+              font-size:1rem;
+              line-height:1.5;
               color:#333;
               
           }
@@ -564,7 +564,10 @@
 
   }
 
-
+.mainpage{
+    margin:0;
+    background-color:#010326;
+}
 
 
 
